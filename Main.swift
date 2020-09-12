@@ -18,7 +18,7 @@ struct ContentView: View {
             Text("Tab 2")
                 .tabItem {
                     Image(systemName: "list.dash")
-                    Text("Todo")
+                    Text("Two")
             }
             .tag(1)
         }
